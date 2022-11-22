@@ -1,0 +1,35 @@
+/* colours and fonts*/
+body{
+	background:#ghostwhite;
+	color: #FFC3C3;
+}
+h1 {
+
+	color: #FFE3A9;
+	font-family: helvitca;
+	font size: 32px;
+}
+h2 {
+
+	color: #FF5D5D;
+
+}
+a {
+	text text-decoration: none;
+	color:  #FF8C8C;
+}
+a: hover { 
+color: #FFE3A9; }
+
+.img-circle {
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
